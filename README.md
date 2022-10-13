@@ -17,4 +17,4 @@ There are several approaches to convincing an Internet user that a domain name o
 |Homograph|paypa1.co.nz|
 |Homophone|paypaw.co.nz|
  
-That is, the cases where a domain name seems normal (i.e. it is not close variant to any popular domain/brand) but is used for other purposes, are outside the scope of this research project.
+That is, the cases where a domain name seems normal (i.e. it is not close variant to any popular domain/brand) but is used for other purposes, are outside the scope of this research [phishing_catcher](https://github.com/readloud/phishing_catcher.git) project.
