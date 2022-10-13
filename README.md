@@ -11,7 +11,7 @@ There are several approaches to convincing an Internet user that a domain name o
 |Type of varient|Example|
 |---------------|-------|
 |Missing dot|wwwpaypal.co.nz
-||Char omission, permutation, substitution|payspal.co.nz|
+|Char omission, permutation, substitution|payspal.co.nz|
 |combo using '-'|www-secure-paypal.co.nz|
 |Add/change second level|paypal.ac.nz|
 |Homograph|paypa1.co.nz|
